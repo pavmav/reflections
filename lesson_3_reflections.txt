@@ -27,4 +27,5 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    if i'm working on an experimental feature or on any feature in a big project and want master branch to stay stable. first is more
+	stable and flexible, second is easier and faster.
